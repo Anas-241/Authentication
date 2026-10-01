@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Vishnu VG",
+      "email": "v@gmail.com",
+      "password": "1234",
+      "id": "qbi4-FKDQA8"
+    },
+    {
+      "name": "Anas",
+      "email": "anas@gmail.com",
+      "password": "2416",
+      "id": "pR2mvBz5QDA"
+    },
+    {
+      "name": "razik",
+      "email": "razik@gmail.com",
+      "password": "1234",
+      "id": "CMEAsJecDCc"
+    },
+    {
+      "name": "thouseef",
+      "email": "th@gmil.com",
+      "password": "5678",
+      "id": "Vmc2QlGZTrQ"
+    },
+    {
+      "name": "Adhy Mol",
+      "email": "adhy@gmail.com",
+      "password": "nandhu123",
+      "id": "qYVl-C6PSro"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

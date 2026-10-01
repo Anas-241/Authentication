@@ -1,0 +1,104 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+form {
+  width: 350px;
+  margin: 60px auto 20px;
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+form h2 {
+  font-size: 16px;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 18px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+}
+
+form input:focus {
+  border-color: #4f46e5;
+}
+
+
+form button {
+  width: 100%;
+  padding: 12px;
+  background: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #4338ca;
+}
+
+
+form + div {
+  text-align: center;
+  color: #555;
+  font-size: 14px;
+}
+
+form + div a {
+  margin-left: 5px;
+  color: #4f46e5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+form + div a:hover {
+  text-decoration: underline;
+}
+
+
+.dashboard {
+  width: 500px;
+  margin: 100px auto;
+  padding: 40px;
+  background: white;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard h1 {
+  margin-bottom: 25px;
+  color: #333;
+}
+
+.dashboard button {
+  padding: 12px 30px;
+  background: #dc2626;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.dashboard button:hover {
+  background: #b91c1c;
+}
